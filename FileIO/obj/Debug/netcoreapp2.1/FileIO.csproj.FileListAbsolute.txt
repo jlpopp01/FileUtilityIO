@@ -1,0 +1,4 @@
+C:\Users\Edd.laptop-PC\source\repos\FileIO\FileIO\obj\Debug\netcoreapp2.1\FileIO.csprojAssemblyReference.cache
+C:\Users\Edd.laptop-PC\source\repos\FileIO\FileIO\obj\Debug\netcoreapp2.1\FileIO.csproj.CoreCompileInputs.cache
+C:\Users\Edd.laptop-PC\source\repos\FileIO\FileIO\obj\Debug\netcoreapp2.1\FileIO.AssemblyInfoInputs.cache
+C:\Users\Edd.laptop-PC\source\repos\FileIO\FileIO\obj\Debug\netcoreapp2.1\FileIO.AssemblyInfo.cs
